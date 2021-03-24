@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Hafid Afridian
+- 👀 I’m interested in programming things
+- 🌱 I’m currently learning as a full stack web developer
